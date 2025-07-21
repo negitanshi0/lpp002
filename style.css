@@ -17,6 +17,10 @@ p {
    margin: 1.5em 0px;   /* 上下に1em・左右に0px */
 }
 
+.divformname {
+   text-align: center;
+}
+
 errormsg {
 　　font-size:0.5px;
 }
