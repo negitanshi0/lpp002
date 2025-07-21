@@ -4,11 +4,11 @@ header {
         color: #808080;
         width: 100%;
         height: 70px;
-        background-color: #e6e6fa;
+        background-color: #c9def2;
 }
 
 h1 {
-	color: #808080;
+	color: #a4a4a4;
 }
 
 p {
@@ -47,7 +47,7 @@ errormsg {
 }
 
 body {
-    background-color: #e6e6fa;
+    background-color: #c9def2;
 }
 
 .button:hover {
