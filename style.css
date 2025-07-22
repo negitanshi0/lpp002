@@ -55,13 +55,7 @@ body {
     font-size: 250%;
     background-color: #c9def2;
 }
-body {
-  background: #fff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
+
 
 .nail-set {
   display: flex;
