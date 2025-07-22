@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background: #fff;
+  margin: 0;
+}
+
+.nail-set {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin: 20px auto;
+  max-width: 90vw;
+}
+
+.nail {
+  width: 50px;
+  height: 70px;
+  background: #f2d6c1;
+  border-radius: 50% / 60%;
+  border: 2px solid #aaa;
+  position: relative;
+}
+
+.nail.thumb {
+  width: 60px;
+  height: 85px;
+}
+
+.nail.pinky {
+  width: 40px;
+  height: 60px;
+}
+
+.decoration {
+  width: 40px;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  touch-action: none;
+}
